@@ -10,6 +10,20 @@ header {
     color: white;
 }
 
+header, 
+section h2,
+section h3,
+form button {
+    font-family: 'Lilita One', cursive;
+    font-weight: normal;
+}
+
+body,
+input {
+    
+    font-family: 'Comfortaa', cursive;
+}
+
 header nav li {
     display: inline;
     margin-left: 16px;
